@@ -7,5 +7,5 @@
     alt="MoffOmnipotent" /> 
   </p>
 
-![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)
+![Spotify]([https://spotify-github-readme.vercel.app/api/spotify](https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB?si=d74030ac71104ae0))
 ![snake gif](https://github.com/MoffOmnipotent/MoffOmnipotent/blob/output/github-contribution-grid-snake.gif)
