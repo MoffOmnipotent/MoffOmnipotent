@@ -3,8 +3,8 @@
 
 <br>
 
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=MoffOmnipotent&label=Profile%20views&color=0e75b6&style=flat"
-    alt="adam-pw" /> 
+<p align="left"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=MoffOmnipotent&label=Profile%20views&color=0e75b6&style=flat"
+    alt="MoffOmnipotent" /> 
   </p>
 
 ![snake gif](https://github.com/MoffOmnipotent/MoffOmnipotent/blob/output/github-contribution-grid-snake.gif)
